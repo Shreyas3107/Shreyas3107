@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shreyas3107
+- 👋 Hi, I’m Shreyas Bhat
 - 👀 I’m interested in Mobile App Development and Deep Learning
 - 🌱 I’m currently learning Convolutional Neural Networks
 - 📫 You can reach me through my e-mail id: shreyas2000.kb@gmail.com
